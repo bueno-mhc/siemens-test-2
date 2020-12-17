@@ -6,10 +6,8 @@ Também é possível compilar o código "main.cpp" e executar o programa gerado 
 
 As entradas do programa é feita através do arquivo "inputs.txt", no formato (conforme apresentado no arquivo inputs.txt, já com vários exemplos):
 
-  "Linha1"
-  
-  "Linha2"
-  
+  "Linha1"  
+  "Linha2"  
   k
   
 Em que "Linha1" é a string a ser transformada, "Linha2" é a string de referência para a transformação e k é o número de operações para realizar a transformação. Pode sem utilizadas quantos conjuntos desejados dessas entradas, em sequência, para executar avaliação de múltiplas strings.
